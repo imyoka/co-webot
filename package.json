@@ -1,0 +1,28 @@
+{
+  "name": "co-webot",
+  "version": "1.0.0",
+  "description": "a middleware",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imyoka/co-webot.git"
+  },
+  "keywords": [
+    "koajs"
+  ],
+  "author": "schwarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imyoka/co-webot/issues"
+  },
+  "homepage": "https://github.com/imyoka/co-webot#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "raw-body": "^2.1.4",
+    "wechat-crypto": "0.0.2",
+    "xml2js": "^0.4.13"
+  }
+}
